@@ -71,6 +71,7 @@ kali_packages:
   - powershell
   - python3-dev
   - python3-pip
+  - python3-venv # NetExec install dependency
   - python-is-python3
   - python-dev-is-python3
   - qt5-qmake # Qmodbus build dependency
@@ -86,6 +87,7 @@ kali_packages:
   - xclip
   - xrdp
   - xsel
+  - xxd
 
 # Vars for miscellaneous tools  
 misc_downloads:
